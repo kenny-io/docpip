@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+.App-btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* center button inside container */
+.App-btn {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
