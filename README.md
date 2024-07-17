@@ -1,4 +1,4 @@
-# Chrome DPIP in React
+# Chrome Document PIP in React
 
 To run the project locally, follow these steps:
 
