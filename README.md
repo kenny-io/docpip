@@ -5,4 +5,5 @@ To run the project locally, follow these steps:
 - Clone - git clone `https://github.com/kenny-io/docpip`
 - Install deps - npm i
 - Run dev server - npm start
-- Check the browser on port 4000
+- Check the browser on port 3000
+- Voila, your app is running
