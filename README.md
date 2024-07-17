@@ -1,9 +1,7 @@
-# Chrome Document PIP in React
+# Chrome DPIP in React
 
 To run the project locally, follow these steps:
 
-- Clone - git clone `https://github.com/kenny-io/docpip`
+- Clone - git clone 
 - Install deps - npm i
 - Run dev server - npm start
-- Check the browser on port 3000
-- Voila, your app is running
